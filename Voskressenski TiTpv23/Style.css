@@ -1,0 +1,55 @@
+/*style.css*/
+Header{
+	color: White; /*teksti värv*/
+	background-color: black; /*tasuta värv*/
+	font-family: Kanit;
+	letter-spacing: 0.2cm;
+	text-align: center;
+}
+footer{
+	position: fixed;
+	bottom: 0;
+	color: white;
+	background-color: black;
+	font-family: Kanit;
+	width: 100%;
+	text-align: center;
+}
+main section{
+	border-left: 6pt solid black; /*dotted dashed*/
+	border-radius: 10px;
+	padding: 20%
+	width: 10%;
+	
+}
+main section h2{
+	color: White; /*teksti värv*/
+	background-color: black; /*tasuta värv*/
+	font-family: Kanit;
+	letter-spacing: 0.2cm;
+	text-align: center;
+}
+/*navigeerimismenüü w3shools lehelt*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
