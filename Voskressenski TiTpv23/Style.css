@@ -16,10 +16,10 @@ footer{
 	text-align: center;
 }
 main section{
-	border-top: 6pt solid black; /*dotted dashed*/
-	border-bottom: 6pt solid black;
+	border-left: 6pt solid black; /*dotted dashed*/
+	border-right: 6pt solid black;
 	border-radius: 300px;
-	padding: 2%;
+	padding: 8%;
 	width: 70%;
 	
 }
